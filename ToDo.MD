@@ -1,0 +1,4 @@
+- [ X ] Add edição de tarefas;
+- [  ] Quando estiver ok ela vai pra baixo;
+- [ X ] Trocar fontes;
+- [ X ] Add funcionalidade para desmarcar tarefa concluida;
